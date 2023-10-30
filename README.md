@@ -1,6 +1,6 @@
 # goit-js-hw-01
 
-Home-work #1
-Basics of functions
+Home-work #3
+Arrays
 
-https://vladyslavjs.github.io/goit-js-hw-01/
+https://github.com/vladyslavJs/goit-js-hw-03
